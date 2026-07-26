@@ -40,18 +40,18 @@ pkg install python -y
 
 **2. Clone the Repository**
 ```bash
-git clone git@github.com:whozenox/ZeNoX-.git
+git clone git@github.com:ghostpyo/ghost-.git
 ```
 
 **3. Navigate to Directory & Install Dependencies**
 ```bash
-cd ZeNoX-
+cd ghost-
 pip install -r requirements.txt
 ```
 
 **4. Set Permissions**
 ```bash
-chmod +x xbomber.py
+chmod +x ghostbomber.py
 ```
 
 ### Method 2: From Termux Void Repo
@@ -60,7 +60,7 @@ chmod +x xbomber.py
 > Make sure you have the [Termux Void Repo](https://termuxvoid.github.io/) added to your sources before proceeding.
 
 ```bash
-apt install xbomber -y
+apt install ghostbomber -y
 ```
 
 ## 💻 Usage
@@ -68,7 +68,7 @@ apt install xbomber -y
 To launch the script, run the following command in your terminal:
 
 ```bash
-python xbomber.py
+python ghostbomber.py
 ```
 
 > [!NOTE]
@@ -82,6 +82,6 @@ This project is licensed under the **MIT License**. file for full details.
 
 <div align="center">
 
-**Developed by [ZeNoX](https://github.com/whozenox)**
+**Developed by [𝐆 𝐇 𝐎 𝐒 𝐓](https://github.com/ghostpyo)**
 
 </div>
